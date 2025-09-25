@@ -1,0 +1,61 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "Global Poverty"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Development"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ]
+  ],
+  "legacy_uid": "5cc534b4-3ab0-b18e-13f3-abc511d2c41c",
+  "instructors": {
+    "content": [
+      "f6f1005e-3478-bdfa-e890-76bc32ef64ae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8d1b8242-dca4-5a5f-e39e-bca822665e2c",
+    "website": "21a-338j-gender-power-and-international-development-fall-2003"
+  },
+  "course_title": "Gender, Power, and International Development",
+  "course_description": "After decades of efforts to promote development, why is there so much poverty in the world? What are some of the root causes of inequality world-wide and why do poverty, economic transformations and development policies often have different consequences for women and men? This course explores these issues while also examining the history of development itself, its underlying assumptions, and its range of supporters and critics. It considers the various meanings given to development by women and men, primarily as residents of particular regions, but also as aid workers, policy makers and government officials. In considering how development projects and policies are experienced in daily life in urban and rural areas in Africa, Latin America, Asia and Melanesia, this course asks what are the underlying political, economic, social, and gender dynamics that make \"development\" an ongoing problem world-wide.\n",
+  "department_numbers": [
+    "21A",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.457J",
+  "primary_course_number": "21A.338J",
+  "course_image_thumbnail": {
+    "content": "dd78e448-d299-004a-c698-5643143209f9",
+    "website": "21a-338j-gender-power-and-international-development-fall-2003"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "ebb0a138-1b95-4811-bf47-6ce91f15564a",
+  "site_short_id": "21a.338j-fall-2003",
+  "site_url_path": "courses/21a-338j-gender-power-and-international-development-fall-2003",
+  "title": "Course Metadata"
+}
